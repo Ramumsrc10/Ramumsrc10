@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning javascript,python and other skills related to web dev...
 - 💞️ I’m looking to collaborate on projects related to web designing  and development...
 - 📫 email id: sivaramachandran10.m@gmail.com
-- instagram : @beyouramu
+- instagram : beyouramu
 
 <!---
 Ramumsrc10/Ramumsrc10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
